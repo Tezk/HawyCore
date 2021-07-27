@@ -1,0 +1,18 @@
+main: me.tezk.hawycore.HawyCore
+name: HawyCore
+version: 1.0
+author: Tezk
+api-version: 1.13
+commands:
+  sethome:
+    description: Set a home
+  home:
+    description: Teleport to your set home
+  hawy:
+    description: Core commands for HawyCore
+  tpa:
+    description: Tpa to player
+  tpaaccept:
+    description: Accept a teleport request from a player
+  deaths:
+    description: Show deaths

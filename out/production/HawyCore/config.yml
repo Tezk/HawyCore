@@ -1,0 +1,52 @@
+motd:
+  message: Running latest ver HawyCore . . .
+  colourful: true
+  colours:
+    - RED
+    - LIGHT_PURPLE
+    - DARK_PURPLE
+    - WHITE
+    - YELLOW
+    - AQUA
+    - BLUE
+    - GOLD
+    - GREEN
+    - DARK_GREEN
+    - DARK_RED
+teleporting-home-cost:
+  - AIR;0
+sound-effect:
+  type: ENDERDRAGON_GROWL
+  duration: 20
+particle:
+  type: PORTAL
+  size: 100000
+shop:
+  #must be on the second line
+  activating-click-text: "&l-- [SHOP] --"
+  items:
+    elytra:
+      name: '&dEly&4tra'
+      buying-item: ELYTRA
+      amount: 1
+      cost:
+        - DIAMOND;60
+        - BLAZE_ROD;12
+    zombie-spawner:
+      name: '&fZombie Spawner'
+      buying-item: SPAWNER
+      # options include 'Zombie Spawner' or 'Skeleton Spawner'
+      spawner-type: Zombie Spawner
+      amount: 1
+      cost:
+        - DIAMOND;60
+        - EMERALD;32
+    skeleton-spawner:
+      name: '&fSkele Spawner'
+      buying-item: SPAWNER
+      # options include 'Zombie Spawner' or 'Skeleton Spawner'
+      spawner-type: 'Skeleton Spawner'
+      amount: 1
+      cost:
+        - DIAMOND;60
+        - EMERALD;32
