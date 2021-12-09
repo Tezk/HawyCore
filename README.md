@@ -8,9 +8,9 @@ HawyCore is an essentials plugin made for my community vanilla Minecraft server,
 * Colourful live MOTD
 
 
-<img src="https://github.com/Tezk/TezkCore/blob/58c2fe214d24307f42b3e45425f9560ab853d187/tezkcoremotd.gif" width="450" height="300" /><img src="https://user-images.githubusercontent.com/13305898/145488121-a99e5513-91b9-4368-8bca-cf45f8470e31.gif" width="500" height="300" />
+<img src="https://github.com/Tezk/TezkCore/blob/58c2fe214d24307f42b3e45425f9560ab853d187/tezkcoremotd.gif" width="500" height="300" /><img src="https://user-images.githubusercontent.com/13305898/145488121-a99e5513-91b9-4368-8bca-cf45f8470e31.gif" width="500" height="300" />
 <img src="https://user-images.githubusercontent.com/13305898/145489758-eb5775ae-7f50-416e-a0e7-5335338180a9.gif" width="500" height="300" />
-<img src="https://user-images.githubusercontent.com/13305898/145491331-deee2638-c565-4e3b-acf2-6fffa3dc277b.gif" width="450" height="300" />
+<img src="https://user-images.githubusercontent.com/13305898/145491331-deee2638-c565-4e3b-acf2-6fffa3dc277b.gif" width="500" height="300" />
 
 ## Commands
 * /sethome - set a home to teleport back to!
